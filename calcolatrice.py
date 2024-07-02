@@ -32,7 +32,8 @@ print(sottrazione(10, 5))       # Output: 5
 # Aggiungi una funzione magicNumbers per restituire una lista di tutti e soli i numeri interi dispari e multipli di 5 tra start e stop
 
 
-
+def magicNumber(start, stop):
+    pass
 
 
 # bonus: fallo su una unica riga con la list comprehension
